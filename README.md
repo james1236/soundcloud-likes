@@ -32,6 +32,8 @@ customize install for your own preferences
 
 8.) In the prompt type `pip install -r requirements.txt`
 
+**Before running the final step, make sure to follow [these instructions](https://github.com/drivelous/soundcloud-likes/issues/3#issuecomment-573339836)**
+
 9.) Once that's successful, you can run the script by typing `python main.py <soundcloud_user_name_here>`. Find your username by going to your profile and looking at the URL
 
 ## Setup (Windows)
@@ -54,5 +56,7 @@ customize install for your own preferences
 6.) In the same git bash window type `source venv2/Scripts/activate`. This will activate the virtualenv so that the packages you are about to install are not downloaded globally
 
 7.) In the same git bash window `pip install -r requirements.txt --user`
+
+**Before running the final step, make sure to follow [these instructions](https://github.com/drivelous/soundcloud-likes/issues/3#issuecomment-573339836)**
 
 8.) Once that's successful, you can run the script by typing `python main.py <soundcloud_user_name_here>`. Find your username by going to your profile and looking at the URL
